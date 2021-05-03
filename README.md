@@ -1,1 +1,1 @@
-echo `id`;
+file_get_contents('/etc/passwd');
